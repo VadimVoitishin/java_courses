@@ -1,4 +1,11 @@
+﻿/**
+	* Класс для вычеслений: + - * / ^
+	* с выводом результатов в консоль
+	* 
+	
+*/
 public class Calculate {
+
   public static void main (String[] arg) {
   	System.out.println("Calculate...");
   	int first = Integer.valueOf(arg[0]);
